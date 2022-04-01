@@ -1,7 +1,7 @@
 /*
     ? ? ? ? ? ? ? ? ? ? 
     +-----------------+
-    ¦ The Office in C ¦
+    Â¦ The Office in C Â¦
     +-----------------+
     ? ? ? ? ? ? ? ? ? ? 
 
@@ -124,7 +124,7 @@ int main() {
             {0, "Michael", "Scott", "Regional Manager", "I. Declare. Bankruptcy!"},
             {1, "Jim", "Halpert", "Salesman", ""},
             {2, "Dwight", "Schrute", "Assistant To The Regional Manager", ""},
-            {3, "Pam", "Beesly", "Receptionist", "I feel God in this Chili’s tonight."},
+            {3, "Pam", "Beesly", "Receptionist", "I feel God in this Chiliâ€™s tonight."},
             {4, "Ryan", "Howard", "Temp", ""},
             {5, "Kelly", "Kapoor", "Customer Service Specialist", ""},
             {6, "Angela", "Martin", "Accountant", ""},
